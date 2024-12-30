@@ -8,7 +8,7 @@
             <img src="{{ asset('asset/dist/assets/img/perabotan.png') }}" alt="AdminLTE Logo" class="brand-image opacity-75 shadow">
             <!--end::Brand Image-->
             <!--begin::Brand Text-->
-            <span class="brand-text fw-light">TOKO PERABOTAN</span>
+            <span class="brand-text fw-light">TOKO PROPERTY</span>
             <!--end::Brand Text-->
         </a>
         <!--end::Brand Link-->
