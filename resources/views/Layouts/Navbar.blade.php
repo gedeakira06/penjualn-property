@@ -12,12 +12,12 @@
         <ul class="navbar-nav ms-auto"> <!--begin::Navbar Search-->
             <li class="nav-item dropdown user-menu">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
-                    <img src="{{ asset('asset/dist/assets/img/profil.jpg') }}" class="user-image rounded-circle shadow" alt="User Image">
+                    <img src="{{ asset('asset/dist/assets/img/profil.jpeg') }}" class="user-image rounded-circle shadow" alt="User Image">
                     <span class="d-none d-md-inline">I Gede Akira Iswara</span>
                 </a>
                 <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end"> <!--begin::User Image-->
                     <li class="user-header text-bg-primary">
-                        <img src="{{ asset('asset/dist/assets/img/profil.jpesg') }}" class="rounded-circle shadow" alt="User Image">
+                        <img src="{{ asset('asset/dist/assets/img/profil.jpeg') }}" class="rounded-circle shadow" alt="User Image">
                         <p>Akira - Pemilik Toko</p>
                     </li> <!--end::User Image-->
 
